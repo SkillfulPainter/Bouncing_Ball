@@ -1,6 +1,3 @@
-# Bouncing_Ball
-A Python program to calculate how high a ball bounces, how long does it bounce and how much distance it travels after n bounces.
-
 # HW2：计算小球第n次弹起高度以及此时的总路程和总时间
 
 赵殿燊 2025.3.11
