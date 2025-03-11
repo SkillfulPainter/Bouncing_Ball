@@ -1,2 +1,2 @@
 # Bouncing_Ball
-A Python program to calculate how high a ball bounces, the total time and distance after n bounces.
+A Python program to calculate how high a ball bounces, how long does it bounce and how much distance it travels after n bounces.
