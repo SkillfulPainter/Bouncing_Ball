@@ -22,5 +22,5 @@ def BounceTotal(h, n):
 h = 100    # 初始下落高度 (m)
 n = 10     # 计算第n次掉落并弹起至最高点时的反弹高度，总路程和总时间
 h_n, total_distance, time = BounceTotal(h, n)     # 输出结果
-print("第" + str(n) + "次掉下并反弹到最高点时，小球反弹了" + str(h_n) + "米高。此时球一共经过"
-      + str(total_distance) + "米，运动了" + str(time) + "秒。")     # 打印结果
+print("第", n, "次掉下并反弹到最高点时，小球反弹了", h_n, "米高。此时球一共经过",
+      total_distance, "米，运动了", time, "秒。")     # 打印结果
